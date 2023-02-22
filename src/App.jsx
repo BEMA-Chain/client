@@ -6,13 +6,11 @@ export default function Home() {
     <div className="container">
       <main className="main">
         <h1 className="title">
-          Welcome to <a href="https://thirdweb.com/">thirdweb</a>!
+          Welcome to <a href="#">BEMA CHAIN</a>!
         </h1>
 
         <p className="description">
-          Get started by configuring your desired network in{" "}
-          <code className="code">src/main.jsx</code>, then modify the{" "}
-          <code className="code">src/App.jsx</code> file!
+          !Wellcome to our website! Here you will find everything you need to explore and enjoy our plataform.
         </p>
 
         <div className="connect">
@@ -20,26 +18,24 @@ export default function Home() {
         </div>
 
         <div className="grid">
-          <a href="https://portal.thirdweb.com/" className="card">
-            <h2>Portal &rarr;</h2>
+          <a href="#" className="card">
+            <h2>Whitelist &rarr;</h2>
             <p>
-              Guides, references and resources that will help you build with
-              thirdweb.
+            Guides, references and resources to help you build our platform
             </p>
           </a>
 
-          <a href="https://thirdweb.com/dashboard" className="card">
+          <a href="https://mumbai.polygonscan.com/address/0x3b31945f7f18e7b99a6c95c1083891d300bf83a2#tokentxns" className="card">
             <h2>Dashboard &rarr;</h2>
             <p>
-              Deploy, configure and manage your smart contracts from the
-              dashboard.
+            Deploy, configure and manage smart contracts from the dashboard.
             </p>
           </a>
 
-          <a href="https://portal.thirdweb.com/templates" className="card">
-            <h2>Templates &rarr;</h2>
+          <a href="#" className="card">
+            <h2>Team &rarr;</h2>
             <p>
-              Discover and clone template projects showcasing thirdweb features.
+            our team trained to create the conditions and provide optimal development.
             </p>
           </a>
         </div>
